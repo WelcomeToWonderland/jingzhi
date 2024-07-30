@@ -5,7 +5,11 @@
 !modules/
 !modules/**
 
+!test_que/
+!test_que/**
+
 !Dent.ttf
 
 !.gitignore
+
 
