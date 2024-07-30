@@ -3,6 +3,7 @@
 *
 
 !modules/
+!modules/**
 
 !Dent.ttf
 
