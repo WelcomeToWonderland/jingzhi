@@ -1,0 +1,10 @@
+
+# 忽略所有文件，仅保留需要的文件
+*
+
+!modules/
+
+!Dent.ttf
+
+!.gitignore
+
