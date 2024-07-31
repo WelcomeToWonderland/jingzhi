@@ -3,7 +3,7 @@
 *
 
 !modules/
-!modules/**
+!modules/*.py
 
 !test_que/
 !test_que/**
